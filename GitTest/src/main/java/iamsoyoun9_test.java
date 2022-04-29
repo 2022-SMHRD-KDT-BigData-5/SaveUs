@@ -2,8 +2,8 @@
 public class iamsoyoun9_test {
 
 	public static void main(String[] args) {
-		System.out.println("집에 보내줘!");
-
+		// TODO Auto-generated method stub
+		System.out.println("두번째");
 	}
 
 }
