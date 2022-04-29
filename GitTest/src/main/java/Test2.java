@@ -11,7 +11,7 @@ public class Test2 {
 	else {
 		System.out.println("집으로 감");
 	}
-
+System.out.println("ㅜㅜ");
 	}
 
 }
